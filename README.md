@@ -1,2 +1,4 @@
 # synthetic_online_retail_analysis
-Statanderds of a synthetic E-Commerce
+Standards of a synthetic E-Commerce.
+
+Data used: https://www.kaggle.com/datasets/ertugrulesol/online-retail-data/data
